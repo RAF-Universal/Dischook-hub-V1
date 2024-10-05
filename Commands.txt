@@ -1,0 +1,9 @@
++ "!spam [Number of messages] [Messages] -- It's will send the number of messages you ask !
+
++ "!webhook" -- You will see the actual webhook you are using
+
++ "stop" -- Stop the webhook ( need to re-send a webhook link )
+
++ "!restart"
+
++ "Nothing Here now"
